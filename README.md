@@ -1,4 +1,5 @@
 **Recommendation System on Million Song Dataset**
+
 Implemented Collaborative Filter Recommendation system on 1M song dataset that contains user-song play counts. Used Alternating Least Square (ALS) model inbuilt in Apache Spark’s MLlib for training the recommendation model after doing appropriate normalizations. Achieved RMSE of 0.082.
 
 **Approach**
